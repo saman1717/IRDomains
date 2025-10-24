@@ -138,7 +138,7 @@ arabic.farsnews.com
 arameshlab.ir
 aras-baran.com
 arashhouse.com
-arashhouse.com:80
+arashhouse.com
 araskhani.com
 araskhani.ir
 arazgol.com
@@ -180,7 +180,7 @@ asp-zinc.com
 asr-danesh.com
 astan.razavi.ir
 atatea.com
-atatea.com:80
+atatea.com
 atatea.ir
 atba.alborz.ir
 atimas.ir
@@ -353,7 +353,7 @@ cartax.shgolestan.org
 cartax.sh-kalatnader.ir
 cartax.taft.ir
 cartax.tehran.ir
-cartax.tehran.ir:8080
+cartax.tehran.ir80
 cartax.tonekabon.ir
 cartax.turehcity.ir
 cartax.urmia.ir
@@ -389,7 +389,7 @@ chanelume.ir
 chap.oerp.ir
 chap.roshd.ir
 chap.sch.ir
-chap.sch.ir:80
+chap.sch.ir
 chapebaner.com
 chapobastebandi.ir
 chaptell.ir
@@ -499,9 +499,9 @@ de1.dadehpardaz.net
 dehkadeh-olampik.mytehran.ir
 dekana.ir
 delgosha.mytehran.ir
-demo.nopshop.ir
-demo.pars.host
-demo.weblime.ir
+nopshop.ir
+pars.host
+weblime.ir
 demo2.nopshop.ir
 dentistryfac.tbzmed.ac.ir
 detam.ir
@@ -644,7 +644,7 @@ entdmmo.tehran.ir
 epsoniran.ir
 ept1.ir
 erp.khu.ac.ir
-erp.khu.ac.ir:8090
+erp.khu.ac.ir90
 esargaran.iau.ir
 esata.ir
 eseta.ir
@@ -704,7 +704,7 @@ file.ahansazan.com
 file.ahan-sazan.com
 file.digi-kala.com
 file.irancell.ir
-file.irancell.ir:80
+file.irancell.ir
 file.utabweb.net
 file3.noormags.ir
 fileniko.com
@@ -7759,7 +7759,7 @@ issfair.com
 it.alborz.ir
 iteachyou.ir
 it-k.ir
-it-k.ir:8080
+it-k.ir80
 itm-uast.ac.ir
 itm-uast.com
 itm-uast.org
@@ -7853,10 +7853,10 @@ kian-control.com
 kianmachineborna.azyol.com
 kiantejaratco.com
 kimiatahrir.com
-kimiatahrir.com:80
+kimiatahrir.com
 kimyapart.azyol.com
 kins.ir
-kins.ir:8089
+kins.ir89
 kntu.ac.ir
 kodakema.com
 kohgiluyeh-boyerahmad.farsnews.com
@@ -8115,7 +8115,7 @@ microbiologyqom.ir
 microsoftcommunity.ir
 mihantime.com
 miladpakar.ir
-mimt.epishkhan.ir:8080
+mimt.epishkhan.ir80
 minaye-jonubi.mytehran.ir
 mindflow.ir
 minigames.snappq.com
@@ -8517,7 +8517,7 @@ ruby-cake.com
 ruby-cake.ir
 rvp.iau.ir
 rws.medal1.com
-rws.medal1.com:80
+rws.medal1.com
 rws.medal1.ir
 s0.cdn1.iranseda.ir:1935
 s2.tra-fast.ir
@@ -8564,7 +8564,7 @@ salisshipping.com
 sama.nezamfanni.ir
 samandehi.tehran.ir
 samanehsharafidesign.com
-samanehsharafidesign.com:80
+samanehsharafidesign.com
 samanketab.roshd.ir
 samanlab.com
 samen24.ir
@@ -8865,7 +8865,7 @@ testema.ir
 testravanshenasi.ir
 tff.tehran.ir
 tgm12.com:1234
-tgm12.com:8080
+tgm12.com80
 thalgonoor.ir
 tifex.tehran.ir
 timdco.com
@@ -8994,7 +8994,7 @@ webdisk.arzyabi97.tadbir-group.ir
 webdisk.ashkiyoun.com
 webdisk.atiparsco.com
 webdisk.cashflow.dadehpardaz.com
-webdisk.dadehpardaz.net:80
+webdisk.dadehpardaz.net
 webdisk.dkg.ir
 webdisk.dp-reporter.ir
 webdisk.eala.ir
@@ -9308,7 +9308,7 @@ elakala.net
 emadresehyar.ir
 emahd.ir
 emrooznews.com
-emrooznews.com:80
+emrooznews.com
 en.badrsun.com
 englishlearner.info
 englishnice.com
@@ -9744,7 +9744,7 @@ roobinaserver.com
 roobinaserver.ir
 rothengaran.com
 royaldent.ir
-royaldent.ir:80
+royaldent.ir
 ruby-cake.ir
 sabadsalva.ir
 sabaipi.ir
@@ -9791,7 +9791,7 @@ sepahteh.shop
 sepandpart.com
 sepehrati.com
 seratnews.ir
-seratnews.ir:80
+seratnews.ir
 sesootsafar.com
 setarehparvaz.com
 setarehshomal.sadig.ir
